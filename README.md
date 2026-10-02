@@ -103,10 +103,6 @@ Only team leads and instructors were able to change the programming connections 
 - Formulas recalculate over whole columns, which gets slower as the sheet grows.
 - Next step: automate row stamps, dashboard generation and validation with Google Apps Script.
 
-## Try it:
-
-[https://docs.google.com/spreadsheets/d/1yMbVXH3gpZHa-zvjkcwE1XnxzmkGZvAiZZy-0U-gmZ0/edit?usp=sharing]
-
 ## Notes
 
 Built solo as the Team Lead, Audio Programmer and Music Composer; made the tracking work much more easier and saved us a couple bucks for not using a project-management tool.
