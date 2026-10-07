@@ -2,7 +2,7 @@
 
 Asset tracker built completely in Google Sheets, programmed with Google Apps Script (JavaScript). Used to track team progress with formulas, dropdown validation and a general status dashboard.
 
-Originally made for RoboRapture (Videogame, 2025).
+Originally made for [RoboRapture](https://github.com/optimusbrand/roborapture-audio) (Videogame, 2025).
 
 > **Note:** This is an early, formulas-only version, shared with permission. All game content, names and IDs have been replaced with dummy data.
 > 
@@ -109,7 +109,7 @@ Only team leads and instructors were able to change the programming connections 
 
 <br>
 
-## Limitations and what I'd improve
+## Limitations & what I'd improve
 
 - Everything is manual: statuses are updated by hand, with no change history beyond Sheets' own.
 - Formulas recalculate over whole columns, which gets slower as the sheet grows.
